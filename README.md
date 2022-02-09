@@ -1,4 +1,5 @@
-- 👋 Hi, my name is Victor, and i'm learning JavaScript. I like Discord.js
+- Discord: vxk 🖤#1834
+- Use Nait bot in your server!
 
 <!---
 VCScript/VCScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
